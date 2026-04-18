@@ -1,0 +1,6 @@
+venv/
+.venv/
+.idea/
+file.txt
+db.sqlite3
+migration/
